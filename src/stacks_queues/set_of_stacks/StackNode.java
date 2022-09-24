@@ -1,6 +1,6 @@
 //Part of stack pf plates
 
-package stacks_queues;
+package stacks_queues.set_of_stacks;
 
 public class StackNode {
 

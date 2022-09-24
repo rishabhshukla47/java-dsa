@@ -1,4 +1,4 @@
-package stacks_queues;
+package stacks_queues.set_of_stacks;
 
 import java.util.ArrayList;
 import java.util.EmptyStackException;

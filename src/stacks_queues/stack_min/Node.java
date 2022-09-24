@@ -1,4 +1,4 @@
-package stacks_queues;
+package stacks_queues.stack_min;
 
 public class Node {
     
